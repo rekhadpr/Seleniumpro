@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-11.0.12"/>
+	<classpathentry kind="lib" path="E:/Seleniumsoftware09082021/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/Seleniumsoftware09082021/Apachejars/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="E:/Seleniumsoftware09082021/Apachejars/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="E:/Seleniumsoftware09082021/Apachejars/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="E:/Seleniumsoftware09082021/Apachejars/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Seleniumsoftware09082021/Apachejars/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="E:/Seleniumsoftware09082021/Apachejars/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Seleniumsoftware09082021/Apachejars/poi-examples-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Seleniumsoftware09082021/Apachejars/poi-excelant-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Seleniumsoftware09082021/Apachejars/poi-integration-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Seleniumsoftware09082021/Apachejars/poi-ooxml-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Seleniumsoftware09082021/Apachejars/poi-ooxml-full-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Seleniumsoftware09082021/Apachejars/poi-ooxml-lite-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Seleniumsoftware09082021/Apachejars/poi-scratchpad-5.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Seleniumsoftware09082021/Apachejars/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Seleniumsoftware09082021/Apachejars/xmlbeans-4.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/SoftwareTools/log4j.jar/log4j.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
